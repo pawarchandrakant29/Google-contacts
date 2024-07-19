@@ -1,0 +1,85 @@
+{
+  "contacts": [
+    {
+      "id": "1001",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fkirtan.png?alt=media&token=5b33f184-8cfd-4ae0-badd-15078a917d15",
+      "name": "Kirtan Malaviya",
+      "email": "kirtan87@gmail.com",
+      "phone": "9601372061",
+      "address": "Surat",
+      "notes": "Smart Devloper"
+    },
+    {
+      "id": "1002",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fmeet.png?alt=media&token=4146a99e-d0d3-41ed-917e-dd706b1f706f",
+      "name": "Meet Kavathiya",
+      "email": "meet459@gmail.com",
+      "phone": "7567317298",
+      "address": "Surat",
+      "notes": "Error Finder"
+    },
+    {
+      "id": "1003",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fme.png?alt=media&token=51cd07a5-fe82-4e90-bd40-2c9945e103fa",
+      "name": "Chandrakant Pawar",
+      "email": "chandrakant789@gmail.com",
+      "phone": "8849038912",
+      "address": "Surat",
+      "notes": "Noraml Devloper\n"
+    },
+    {
+      "id": "1004",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fbikram.png?alt=media&token=1d8d6e6a-4c2c-4f1d-8a0c-33834c4a86b7",
+      "name": "Bikram Nahak",
+      "email": "bikram112@gmail.com",
+      "phone": "9714823252",
+      "address": "Surat",
+      "notes": "Heavy Devloper"
+    },
+    {
+      "id": "1005",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fyash.png?alt=media&token=58dd39c6-c2fd-4913-84c4-81dbbbd1c79b",
+      "name": "Yash ",
+      "email": "yash987@gmail.com",
+      "phone": "7383841600",
+      "address": "Ankleshwar",
+      "notes": "Cool Devloper"
+    },
+    {
+      "id": "1006",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fkrunal.png?alt=media&token=b30cab1d-e638-40db-9bcd-1db1c84a574c",
+      "name": "Krunal Kotadiya",
+      "email": "krunal40@gmail.com",
+      "phone": "9925114832",
+      "address": "Surat",
+      "notes": "Thinker"
+    },
+    {
+      "id": "1007",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fsatish.png?alt=media&token=9fe8a363-5772-478b-8dd9-6393290be71d",
+      "name": "Satish",
+      "email": "satish79@gmail.com",
+      "phone": "8140108307",
+      "address": "Surat",
+      "notes": "Expert Devloper"
+    },
+    {
+      "id": "1008",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fvivek.png?alt=media&token=a1cd9292-5a54-4526-8630-b481589c8e90",
+      "name": "Vivek Sojitra",
+      "email": "vivek99@gmail.com",
+      "phone": "6354307290",
+      "address": "Surat",
+      "notes": "Busy Devloper"
+    },
+    {
+      "id": "1009",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contacts-e5a08.appspot.com/o/avatars%2Fmasum.png?alt=media&token=16e2e6c8-a75d-4f27-809a-70b5aebe57dc",
+      "name": "Masum Mangukiya",
+      "email": "masum419@gmail.com",
+      "phone": "7862945601",
+      "address": "Surat",
+      "notes": "Chill Devloper"
+    }
+  ]
+}
